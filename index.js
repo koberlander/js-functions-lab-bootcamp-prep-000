@@ -12,6 +12,7 @@ function happyHolidaysTo(name) {
   name = "you";
   return "Happy holidays, ${name}!";
 }
+function happyHolidaysTo(you);
 
 function happyHolidayTo(holiday, name){
   holiday = "Independence Day";
